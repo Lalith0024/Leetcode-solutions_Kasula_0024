@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lalith0024/Leetcode-backup/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lalith0024/Leetcode-backup/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lalith0024/Leetcode-backup/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Lalith0024/Leetcode-backup/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lalith0024/Leetcode-backup/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lalith0024/Leetcode-backup/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lalith0024/Leetcode-backup/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
