@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lalith0024/Leetcode-backup/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lalith0024/Leetcode-backup/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/3525-find-x-value-of-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lalith0024/Leetcode-backup/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lalith0024/Leetcode-backup/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lalith0024/Leetcode-backup/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Lalith0024/Leetcode-backup/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lalith0024/Leetcode-backup/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Lalith0024/Leetcode-backup/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3525-find-x-value-of-array-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lalith0024/Leetcode-backup/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lalith0024/Leetcode-backup/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Lalith0024/Leetcode-backup/tree/master/3870-count-commas-in-range) |
