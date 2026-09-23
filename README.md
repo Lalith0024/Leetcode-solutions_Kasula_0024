@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lalith0024/Leetcode-backup/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Lalith0024/Leetcode-backup/tree/master/1927-sum-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Lalith0024/Leetcode-backup/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0940-distinct-subsequences-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lalith0024/Leetcode-backup/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Lalith0024/Leetcode-backup/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
