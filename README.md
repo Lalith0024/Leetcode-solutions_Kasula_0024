@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lalith0024/Leetcode-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Lalith0024/Leetcode-backup/tree/master/0877-stone-game) |
@@ -273,8 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lalith0024/Leetcode-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lalith0024/Leetcode-backup/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Lalith0024/Leetcode-backup/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
