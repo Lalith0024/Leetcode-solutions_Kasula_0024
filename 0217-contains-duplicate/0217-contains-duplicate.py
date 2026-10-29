@@ -6,6 +6,6 @@ class Solution:
         # impossible, so just make set, and compare with original:
 
         set_ = set(nums)
-        if set_ == nums:
-            return True
-        return False
+        if len(set_) == len(nums):
+            return False
+        return True
