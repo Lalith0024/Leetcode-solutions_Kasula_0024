@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Lalith0024/Leetcode-backup/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalith0024/Leetcode-backup/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Lalith0024/Leetcode-backup/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Lalith0024/Leetcode-backup/tree/master/0877-stone-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lalith0024/Leetcode-backup/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalith0024/Leetcode-backup/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Lalith0024/Leetcode-backup/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Lalith0024/Leetcode-backup/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalith0024/Leetcode-backup/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lalith0024/Leetcode-backup/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lalith0024/Leetcode-backup/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalith0024/Leetcode-backup/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Lalith0024/Leetcode-backup/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalith0024/Leetcode-backup/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lalith0024/Leetcode-backup/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lalith0024/Leetcode-backup/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Lalith0024/Leetcode-backup/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lalith0024/Leetcode-backup/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lalith0024/Leetcode-backup/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
