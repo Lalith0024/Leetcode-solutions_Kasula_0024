@@ -1,8 +1,11 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        a = set(nums)
-        if len(a)==len(nums):
-            return False
-        else:
+    def containsDuplicate(self, nums: list[int]) -> bool:
+        # set equal (time -> same, space extra)
+        # sort and check -> (time-> increases, space same)
+        # min required 0(n) to traverse and check , try to complete in 0(n) time with 0(1) space 
+        # impossible, so just make set, and compare with original:
+
+        set_ = set(nums)
+        if set_ == nums:
             return True
-        
+        return False
