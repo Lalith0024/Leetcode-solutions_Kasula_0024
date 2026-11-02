@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lalith0024/Leetcode-backup/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalith0024/Leetcode-backup/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Lalith0024/Leetcode-backup/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Lalith0024/Leetcode-backup/tree/master/0835-image-overlap) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Lalith0024/Leetcode-backup/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Lalith0024/Leetcode-backup/tree/master/0836-rectangle-overlap) |
