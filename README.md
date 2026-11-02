@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lalith0024/Leetcode-backup/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalith0024/Leetcode-backup/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Lalith0024/Leetcode-backup/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Lalith0024/Leetcode-backup/tree/master/0877-stone-game) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lalith0024/Leetcode-backup/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Lalith0024/Leetcode-backup/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Lalith0024/Leetcode-backup/tree/master/0877-stone-game) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lalith0024/Leetcode-backup/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalith0024/Leetcode-backup/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalith0024/Leetcode-backup/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lalith0024/Leetcode-backup/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lalith0024/Leetcode-backup/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lalith0024/Leetcode-backup/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalith0024/Leetcode-backup/tree/master/2089-find-target-indices-after-sorting-array) |
